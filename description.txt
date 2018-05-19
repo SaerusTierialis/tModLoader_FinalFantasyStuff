@@ -1,0 +1,37 @@
+Currently contains three Chocobo mounts (regular, black, and gold).
+
+The Chocobo Whistle and Sylkis Greens drop from all enemies (hostle, non-critter, non-statue). Zeio Nut drops from all bosses at a low chance.
+
+The Black Chocobo Whistle is crafted from two regular whistles and 100 Sylkis Greens. The Gold Chocobo Whistle is crafted from a Chocobo Whistle, a Black Chocobo Whistle, 100 Sylkis Greens, and a Zeio Nut.
+
+Shares a homepage with my main mod.
+
+v1.0.4
+-Updated for tModLoader v0.10.1.3
+
+v1.0.3
+-Updated for tModLoader v0.10.1
+
+v1.0.2
+-fixed crafting bug that was affecting other mods (introduced in v1.0.1)
+
+v1.0.1
+-compatibility with tModLoader v0.10.0.1
+
+v0.4
+-change feathers to Sylkis Greens, added Zeio Nut
+-added gold chocobo (faster and has brief flight)
+-dust changes
+-small recipe and value changes
+
+v0.3.4
+-Fixed a black line that appeared by the player's head while jumping on either chocobo
+
+v0.3.3
+-Recoloured the Black Chocobo
+
+v0.3.2
+-Updated mount buff sprites
+
+v0.3.1
+-Fixed the issue with the two mounts floating off the ground slightly.
