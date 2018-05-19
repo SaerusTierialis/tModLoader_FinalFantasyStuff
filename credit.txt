@@ -1,0 +1,5 @@
+Chocobo mount and buff sprites adapted from http://i1237.photobucket.com/albums/ff465/Raygoner/chocobo9vo-1.png
+
+Zeio Nut adapted from this https://upload.wikimedia.org/wikipedia/commons/4/49/Peanuts_(1).jpg (labeled for reuse with modification)
+
+Sylkis Greens adapted from https://pixabay.com/p-37223/?no_redirect and https://pixabay.com/p-576288/?no_redirect (both labeled for reuse with modification)
